@@ -1,9 +1,11 @@
 
 <body>
 
-<h1>Database Backup Script</h1>
+<h1>Render Database Backup Script</h1>
 
 <p>This script exports data from a Django model and saves it to a CSV file. It is designed to be used as a backup mechanism for your Django project.</p>
+<p>We all know that Render provides free database service for 3 months. But, in free tier plan, the database will be deleted after 3 months and also we cannot take backup.</p>
+<p>So, for taking backup of the data, you can make use of this script. The data will be stored in CSV format. Follow the instructions below and get your backup now!</p>
 
 <h2>Requirements</h2>
 
