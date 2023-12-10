@@ -3,7 +3,7 @@ import django
 import csv
 
 # Set the DJANGO_SETTINGS_MODULE environment variable
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "<Your Project Name>.settings") # Change to your Project Name
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "Your Project Name.settings") # Change to your Project Name
 
 # Ensure Django is initialized
 django.setup()
